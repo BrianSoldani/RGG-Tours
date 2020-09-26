@@ -14,7 +14,7 @@ class App extends Component {
               <Link to="/about">About</Link>
               <Link to="/projecttours">Project Tours</Link>
               <Link to="/contact">Contact</Link>
-              <Link to="/responses">Reponses</Link>
+              <Link to="/responses">Responses</Link>
             </Navigation>
           </Header>
           <Drawer title="Explore">
